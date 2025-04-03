@@ -1,7 +1,8 @@
 # Chicago Crime Analysis (2001 - Present) 📊
 
 ## Overview
-This interactive dashboard provides a comprehensive analysis of crime trends in Chicago from 2001 to the present. The dashboard offers insights into crime patterns based on time, location, category, and type.
+This interactive dashboard provides a comprehensive analysis of crime trends in Chicago from 2001 to the present. The dashboard offers insights into crime patterns based on time, location, category, and type. 
+https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=sharing
 
 ## Key Insights from the Dashboard
 
@@ -58,7 +59,7 @@ This interactive dashboard provides a comprehensive analysis of crime trends in 
 - **Trend Analysis:** Identify patterns and spikes in criminal activity.
 
 ## Technologies Used
-Power BI**: Dashboard creation
+**Power BI**: Dashboard creation
 
 ## Data Source
 - **Chicago Data Portal**: [Chicago Open Data](https://data.cityofchicago.org)
