@@ -25,11 +25,11 @@ https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=shari
 ### 🕒 Crime by Hour:
 - **Peak Crime Times:** Midnight (00:00) has the highest number of incidents (~481K), followed by noon (12:00).
 
-### 📍 𝗖𝗿𝗶𝗺𝗲 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
-- **Most Affected Areas:** 
- - 10000 W O’Hare St (17K)
- - 100 N State St (16K cases)
- - 7600 S Cicero Ave (11K cases)
+### 📍 𝗖𝗿𝗶𝗺𝗲 by 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+- **Most Affected Blocks:** 
+  - 10000 W O’Hare St (17K)
+  - 100 N State St (16K cases)
+  - 7600 S Cicero Ave (11K cases)
 
 ### 🏙️ Crime by Community:
 - **Most Affected Areas:** 
