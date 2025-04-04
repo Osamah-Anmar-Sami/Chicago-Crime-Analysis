@@ -25,13 +25,11 @@ https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=shari
 ### 🕒 Crime by Hour:
 - **Peak Crime Times:** Midnight (00:00) has the highest number of incidents (~481K), followed by noon (12:00).
 
-## Crime Locations
-
-### 📍 Most Common Crime Scenes:
-- **Streets:** 2.2M incidents
-- **Residences:** 1.4M incidents
-- **Apartments:** 1.0M incidents
-- **Public Spaces:** Sidewalks (~800K), Parking Lots/Garages (~300K)
+##📍 𝗖𝗿𝗶𝗺𝗲 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+- **Most Affected Areas:** 
+ - 10000 W O’Hare St (17K)
+ - 100 N State St (16K cases)
+ - 7600 S Cicero Ave (11K cases)
 
 ### 🏙️ Crime by Community:
 - **Most Affected Areas:** 
@@ -54,7 +52,7 @@ https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=shari
 - Weapons Violation
 
 ## Features of the Dashboard
-- **Interactive Filters:** Users can filter by year, month, location, and crime category.
+- **Interactive Filters:** Users can filter by year,  location, crime type and crime category.
 - **Visual Representation:** Charts for easy analysis.
 - **Trend Analysis:** Identify patterns and spikes in criminal activity.
 
