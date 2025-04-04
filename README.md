@@ -28,8 +28,8 @@ https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=shari
 ### 📍 𝗖𝗿𝗶𝗺𝗲 by 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
 - **Most Affected Blocks:** 
   - 10000 W O’Hare St (17K)
-  - 100 N State St (16K cases)
-  - 7600 S Cicero Ave (11K cases)
+  - 100 N State St (16K)
+  - 7600 S Cicero Ave (11K)
 
 ### 🏙️ Crime by Community:
 - **Most Affected Areas:** 
