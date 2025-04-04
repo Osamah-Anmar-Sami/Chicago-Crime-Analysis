@@ -1,0 +1,28 @@
+FBI Code,Crime Category
+01A,Homicide (First-Degree Murder)
+2,Criminal Sexual Assault (Rape)
+3,Robbery
+04A,Aggravated Assault
+04B,Aggravated Battery
+5,Burglary
+6,Larceny (Theft)
+7,Motor Vehicle Theft
+08A,Simple Assault
+08B,Simple Battery
+9,Arson
+10,Forgery and Counterfeiting
+11,Fraud
+12,Embezzlement
+13,Stolen Property
+14,Vandalism
+15,Weapons Violations
+16,Prostitution
+17,Sex Offenses (Non-Rape)
+18,Drug-Related Offenses
+19,Gambling
+20,Family Offenses (Nonviolent)
+22,Liquor Law Violations
+23,Drunkenness
+24,Disorderly Conduct
+26,All Other Offenses
+27,Loitering
