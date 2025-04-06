@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=shari
 https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrimeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Technologies Used
-**Power BI**: Dashboard creation<\br>
+**Power BI**: Dashboard creation <\br>
 **Tableau**: Dashboard creation
 
 ## Features of the Dashboard
@@ -53,6 +53,7 @@ https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrim
   - South Shore (253K)
 
 ## Crime by Category & Type
+
 ### 🔹 Crime Categories:
 - Theft
 - Assault
