@@ -4,6 +4,21 @@
 This interactive dashboard provides a comprehensive analysis of crime trends in Chicago from 2001 to the present. The dashboard offers insights into crime patterns based on time, location, category, and type. 
 https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=sharing
 
+## Data Source
+- **Chicago Data Portal**: [Chicago Open Data](https://data.cityofchicago.org)
+
+## Tableau Dashboard 
+https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrimeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Technologies Used
+**Power BI**: Dashboard creation
+**Tableau**: Dashboard creation
+
+## Features of the Dashboard
+- **Interactive Filters:** Users can filter by year,  location, crime type and crime category.
+- **Visual Representation:** Charts for easy analysis.
+- **Trend Analysis:** Identify patterns and spikes in criminal activity.
+
 ## Key Insights from the Dashboard
 
 ### ✅ Total Statistics:
@@ -50,17 +65,6 @@ https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=shari
 - Criminal Damage
 - Narcotics
 - Weapons Violation
-
-## Features of the Dashboard
-- **Interactive Filters:** Users can filter by year,  location, crime type and crime category.
-- **Visual Representation:** Charts for easy analysis.
-- **Trend Analysis:** Identify patterns and spikes in criminal activity.
-
-## Technologies Used
-**Power BI**: Dashboard creation
-
-## Data Source
-- **Chicago Data Portal**: [Chicago Open Data](https://data.cityofchicago.org)
 
 ## Contributions
 Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests.
