@@ -52,9 +52,9 @@ https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrim
   - Near North Side (274K)
   - South Shore (253K)
 
-## Crime by Category & Type
+### Crime by Category & Type
 
-### 🔹 Crime Categories:
+# 🔹 Crime Categories:
 - Theft
 - Assault
 - Drug-related offenses
