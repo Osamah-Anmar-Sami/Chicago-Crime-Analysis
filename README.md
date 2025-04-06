@@ -54,13 +54,13 @@ https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrim
 
 ### Crime by Category & Type
 
-# 🔹 Crime Categories:
+#### 🔹 Crime Categories:
 - Theft
 - Assault
 - Drug-related offenses
 - Burglary
 
-### 🔹 Crime Types:
+#### 🔹 Crime Types:
 - Vehicle Theft
 - Criminal Damage
 - Narcotics
