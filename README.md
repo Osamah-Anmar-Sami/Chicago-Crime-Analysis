@@ -2,13 +2,16 @@
 
 ## Overview
 This interactive dashboard provides a comprehensive analysis of crime trends in Chicago from 2001 to the present. The dashboard offers insights into crime patterns based on time, location, category, and type. 
-https://drive.google.com/file/d/1bK-aVDbS2uTYcMNACxiuKiCrd5ZMfYkN/view?usp=sharing
+
 
 ## Data Source
 - **Chicago Data Portal**: [Chicago Open Data](https://data.cityofchicago.org)
 
 ## Tableau Dashboard 
 https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrimeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Power Bi File
+https://drive.google.com/file/d/1F_88-rFF0TOsR4YK1x7FaSWDxkv6m2v4/view?usp=sharing
 
 ## Technologies Used
 **Power BI**: Dashboard creation <br />
