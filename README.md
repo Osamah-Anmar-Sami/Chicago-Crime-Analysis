@@ -1,4 +1,4 @@
-# Chicago Crime Analysis (2001 - Present) 📊
+# Chicago Crime Analysis (2001 - 2024) 📊
 
 ## Overview
 This interactive dashboard provides a comprehensive analysis of crime trends in Chicago from 2001 to the present. The dashboard offers insights into crime patterns based on time, location, category, and type. 
