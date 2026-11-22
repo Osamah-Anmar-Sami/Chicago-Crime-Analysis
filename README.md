@@ -10,8 +10,6 @@ This interactive dashboard provides a comprehensive analysis of crime trends in 
 ## Tableau Dashboard 
 https://public.tableau.com/views/ChicagoCrimeAnalysis_17439743970600/ChicagoCrimeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Power Bi File
-https://drive.google.com/file/d/1mbWU21qQb42-asATmSXMaI8v1Cd51iCY/view?usp=sharing
 
 ## Technologies Used
 **Power BI**: Dashboard creation <br />
